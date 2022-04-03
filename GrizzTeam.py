@@ -7,7 +7,7 @@ import sys
 
 os.system("clear")
 print("""\033[92m
-Present to Grizz Community Tools
+Present to Grizz Community Tools, credit to GrizzX""")
 
 ip = str(input(" IP TARGET:"))
 port = int(input(" PORT:"))
